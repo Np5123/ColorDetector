@@ -10,4 +10,5 @@
     
     
 # Output:
-              ![alt text](https://github.com/[Np5123]/[ColorDetector]/blob/[branch]/Output.png?raw=true)
+
+![alt text](https://github.com/[Np5123]/[ColorDetector]/blob/[branch]/Output.png?raw=true)
