@@ -11,4 +11,4 @@
     
 # Output:
 
-![](https://github.com/[Np5123]/[ColorDetector]/blob/[branch]/Output.png?raw=true)
+![]("Output.png")
