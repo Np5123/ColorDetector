@@ -11,4 +11,4 @@
     
 # Output:
 
-![alt text](https://github.com/[Np5123]/[ColorDetector]/blob/[branch]/Output.png?raw=true)
+![](https://github.com/[Np5123]/[ColorDetector]/blob/[branch]/Output.png?raw=true)
