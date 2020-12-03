@@ -11,4 +11,4 @@
     
 # Output:
 
-<img src="Output.png" alt="My cool logo"/>
+<img src="output_final.png" alt="Result"/>
